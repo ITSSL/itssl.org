@@ -2,7 +2,7 @@
 layout: page
 title: About ITSSL
 permalink: "/about/"
-image: assets/images/screenshot.png
+#image: assets/images/screenshot.png
 ---
 
 <div style="color:#072C49">
