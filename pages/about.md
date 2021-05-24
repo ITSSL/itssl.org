@@ -1,13 +1,12 @@
 ---
 layout: page
-title: About
+title: About ITSSL
 permalink: "/about/"
 image: assets/images/screenshot.png
 ---
 
 <div style="color:#072C49">
 <main role="main" class="hmain">
-      <h1 class="mt-5">About ITSSL</h1>
       <p>The Information Technology Society of Sri Lanka (ITSSL) is a professional body and learned society in the field of Computing and Information Technology in Sri Lanka. It was established in 2019.</p>
     <p>The ITSSL was established in 2019 in Sri Lanka for the purpose of educating people about Information and Communication Technology (ICT), and to take initiatives in matters pertaining to recent political developments in Sri Lanka with interests attached to field of IT. Sri Lankan law in regard to the Cyber security and the proposed law on data protection were some of focal points of ITSSL and ITSSL have been one of the principal figures involved in the dialogue. Some of the headline interests of ITSSL include the discussion on social networks and creating a hate free platform in Sri Lanka where freedom of expression is encouraged.</p>
 
