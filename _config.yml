@@ -6,7 +6,7 @@ baseurl: "/itssl.org"
 permalink: "/:title/"
 logo: 'assets/images/itssl-logo.jpg'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Admin
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
