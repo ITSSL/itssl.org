@@ -1,4 +1,5 @@
-# ITSSL Official Website
-#### Information Technology Society of Sri Lanka
+# Affiliates - Free Jekyll Theme
 
-### view this site: https://itssl.github.io/itssl.org/
+[Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) | [Docs & Download](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
+
+![jekyll-affiliates-theme](https://bootstrapstarter.com/assets/img/themes/affiliates-jekyll.jpg)
