@@ -2,7 +2,7 @@
 name: "ITSSL"
 title: "Information Technology Society of Sri Lanka"
 description: "Information Technology Society of Sri Lanka"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo.svg'
 favicon: 'assets/images/logo.png'
 baseurl: /itssl.org
 google_analytics: ''
