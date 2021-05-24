@@ -1,5 +1,4 @@
-# Skiddow's web page
+# ITSSL Official Website
+#### Information Technology Society of Sri Lanka
 
-## view this site: https://skiddow.github.io/skiddow.com/
-
-#### Theme by WowThemes: https://github.com/wowthemesnet/affiliates-jekyll-theme
+## view this site: hhttps://itssl.github.io/itssl.org/
