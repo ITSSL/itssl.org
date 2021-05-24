@@ -2,7 +2,7 @@ title: "Information Technology Society of Sri Lanka"
 email: contact@itssl.org
 formspree: mjvjwbrv
 timezone: UTC
-baseurl: "itssl.org"
+baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/itssl-logo.jpg'
 favicon: 'assets/images/favicon.ico'
