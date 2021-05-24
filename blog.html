@@ -1,6 +1,8 @@
 ---
-title: Blog
 layout: page
+title: Blog ---
+permalink: "/blog/"
+comments: false
 ---
 
 <!-- Home Intro
@@ -23,11 +25,13 @@ layout: page
 <!-- Featured
 ================================================== -->
 <section class="row">
-
+  {% for post in site.posts %}
+      {% if post.featured == true %}
           <div class="col-md-4 mb-5">
           {% include postbox.html %}
           </div>
-
+      {% endif %}
+  {% endfor %}
 
 </section>
 
