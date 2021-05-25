@@ -24,6 +24,9 @@ footermenu:
 - title: Home
   url: ""
 
+- title: Press Releases
+  url: "categories/#press-releases/"
+
 - title: Privacy Policy
   url: "privacy-policy/"
 
