@@ -21,7 +21,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: XXXXXXXXXXX
+ganalytics: UA-197928760-1
 
 
 # Social
