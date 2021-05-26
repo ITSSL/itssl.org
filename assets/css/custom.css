@@ -2,8 +2,10 @@
 Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
-
+@font-face {
+  font-family: "Noto Sans";
+  src: url(https://itssl.org/assets/noto.ttf);
+}
 
 body {
   font-family: "PT Sans",sans-serif, "Noto Sans";
