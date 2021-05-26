@@ -7,10 +7,6 @@ Just customize your theme here.
   src: url(https://itssl.org/assets/noto.ttf);
 }
 
-body {
-  font-family: "PT Sans",sans-serif, "Noto Sans";
-}
-
 .noto {
   font-family: "PT Sans",sans-serif, "Noto Sans";
 }
