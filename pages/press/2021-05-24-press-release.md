@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "අන්තර්ජාල වේගයන් මන්දගාමී වීම සම්බන්ධයෙන් විදුලි සංදේශන නියාමන කොමිෂන් සභාවේ කඩිනම් අවධානය යොමු කරන්න"
+title:  "2021-05-24 Press Release"
 image: assets/images/blog/press-cover.jpg
 permalink: "/2021-05-24-press-release/"
 ---
