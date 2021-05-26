@@ -3,7 +3,7 @@ email: contact@itssl.org
 formspree: mjvjwbrv
 timezone: UTC
 baseurl: "/"
-permalink: "/blog/:title/"
+permalink: "/:title/"
 logo: 'assets/images/itssl-logo.jpg'
 favicon: 'assets/images/favicon.ico'
 author: Admin
