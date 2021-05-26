@@ -1,6 +1,15 @@
-/* 
-Don't want to use sass and simply modify the stylesheet in the old css fashion? 
+/*
+Don't want to use sass and simply modify the stylesheet in the old css fashion?
 Just customize your theme here.
 ================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 
-body {}
+
+body {
+  font-family: "PT Sans",sans-serif, "Noto Sans";
+}
+
+.article-post a {
+      color: inherit;
+      box-shadow: inset 0 -2px 0 #042c49, 0 2px 0 #042c49;
+}
